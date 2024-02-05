@@ -5,18 +5,18 @@
 [
     {
         "model": "gpt-4",
-        "api_key": "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"
+        "api_key": "API CODE"
     },
     {
         "model": "gpt-4-1106-preview",
-        "api_key": "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",
+        "api_key": "API CODE",
         "base_url": "https://api.openai.com/v1",
         "api_type": "azure",
         "api_version": "2023-07-01-preview"
     },
     {
         "model": "gpt-4-1106-preview",
-        "api_key": "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",
+        "api_key": "API CODE",
         "base_url": "https://api.openai.com/v1",
         "api_type": "openai",
         "api_version": "2023-07-01-preview"
